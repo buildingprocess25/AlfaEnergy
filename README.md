@@ -3,6 +3,7 @@
 [![Firmware Version](https://img.shields.io/badge/firmware-v1.4.1-blue.svg)](https://github.com/buildingprocess25/AlfaEnergy)
 [![Architecture](https://img.shields.io/badge/arch-ESP32%20%7C%20FreeRTOS-orange.svg)](https://github.com/buildingprocess25/AlfaEnergy)
 [![Protocol](https://img.shields.io/badge/protocol-MQTT%20%7C%20Modbus%20RTU-green.svg)](https://github.com/buildingprocess25/AlfaEnergy)
+[![License: Proprietary](https://img.shields.io/badge/license-Proprietary%20%7C%20All%20Rights%20Reserved-red.svg)](LICENSE)
 [![Author](https://img.shields.io/badge/author-rohidfkra777-purple.svg)](https://github.com/rohidfkra777)
 [![Organization](https://img.shields.io/badge/org-buildingprocess25-lightgrey.svg)](https://github.com/buildingprocess25)
 
@@ -170,3 +171,11 @@ Root prefix standar yang digunakan: `AlfaEnergy/<DEVICE_ID>`
 - **Pengembang**: [rohidfkra777](https://github.com/rohidfkra777)
 - **Repositori Organisasi**: [buildingprocess25/AlfaEnergy](https://github.com/buildingprocess25/AlfaEnergy)
 - **Organisasi**: [buildingprocess25](https://github.com/buildingprocess25)
+
+---
+
+## 🔒 Hak Cipta & Lisensi
+
+Seluruh kode sumber, arsitektur, dan aset pada repositori ini bersifat **Proprietary & Confidential** (Hak Cipta Dilindungi Undang-Undang). Dilarang keras menyalin, mengunduh, menduplikasi, memodifikasi, mendistribusikan, atau mengomersialisasikan tanpa izin tertulis dari [rohidfkra777](https://github.com/rohidfkra777).
+
+Ketentuan lisensi lengkap tercantum pada berkas [LICENSE](LICENSE).
